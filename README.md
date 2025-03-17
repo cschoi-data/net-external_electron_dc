@@ -1,0 +1,1 @@
+Dose coefficients for ICRP pediatric mesh-type reference computational phantoms under idealized external electron exposures (Chansoo Choi, Bangho Shin, Sungho Moon, Yeon Soo Yeom, Chan Hyeong Kim, Wesley E. Bolch)
